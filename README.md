@@ -5,7 +5,6 @@ Fine-tuned TinyLlama-1.1B with LoRA/PEFT to classify research papers into 11 arX
 ## Results
 - **Accuracy:** 84.3% on 2,500 test samples
 - **Trainable params:** 0.1% (LoRA)
-- **Training time:** ~80 mins on RTX 4050 (6GB VRAM)
 
 ## Links
 - [Demo Video](https://youtu.be/-nHIcbDLyp0)
