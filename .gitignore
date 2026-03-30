@@ -1,0 +1,5 @@
+models/
+llm_project/
+__pycache__/
+*.pyc
+.env
